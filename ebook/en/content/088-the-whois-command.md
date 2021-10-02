@@ -1,3 +1,4 @@
+
 # The `whois` command
 
 `whois` command in Linux to find out information about a domain, such as the owner of the domain, the owner’s contact information, and the nameservers that the domain is using.
@@ -22,15 +23,16 @@ whois -H {Domain_name}
 whois [ -h HOST ] [ -p PORT ] [ -aCFHlLMmrRSVx ] [ -g SOURCE:FIRST-LAST ] 
       [ -i ATTR ] [ -S SOURCE ] [ -T TYPE ] object
 ```
+```
 whois -t TYPE
-
+```
 ```
 whois -v TYPE
-
+```
 ```
 whois -q keyword
-
 ```
+
 
 ### Additional Flags and their Functionalities:
 
