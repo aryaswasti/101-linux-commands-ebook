@@ -1,7 +1,6 @@
-
 # The `whois` command
 
-`whois` command in Linux to find out information about a domain, such as the owner of the domain, the owner’s contact information, and the nameservers that the domain is using.
+The `whois` command in Linux to find out information about a domain, such as the owner of the domain, the owner’s contact information, and the nameservers that the domain is using.
 
 ### Examples:
 
