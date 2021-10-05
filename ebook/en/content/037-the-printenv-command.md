@@ -25,7 +25,7 @@ printenv --null SHELL HOME
 ### Syntax:
 
 ```
-1.  locate [OPTION]... PATTERN...
+printenv [OPTION]... PATTERN...
 ```
 
 
